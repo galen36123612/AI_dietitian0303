@@ -790,7 +790,7 @@ export function useHandleServerEvent({
           addTranscriptMessage(
             "welcome",
             "assistant",
-            "您好！我是一路發，這是我的 AI 服務專線，歡迎您。"
+            "嗨！你最近腸胃好嗎？有遇到什麼困擾的地方可以跟我聊聊喔。"
           );
         }
         break;
